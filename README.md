@@ -1,2 +1,2 @@
-# -info1213a3
+# info1213a3
 assignment 3
